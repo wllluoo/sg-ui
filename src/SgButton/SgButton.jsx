@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import shortid from 'shortid';
-import './index.less';
 
 export default class SgButton extends React.Component {
     constructor(props) {
