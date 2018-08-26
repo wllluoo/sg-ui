@@ -74,11 +74,11 @@ var SgButton = function (_React$Component) {
 
 exports.default = SgButton;
 
-Demo.defaultProps = {
+SgButton.defaultProps = {
     key: _shortid2.default.generate(),
     onClick: function onClick() {}
 };
-Demo.propTypes = {
+SgButton.propTypes = {
     key: _propTypes2.default.number,
     onClick: _propTypes2.default.func
 };

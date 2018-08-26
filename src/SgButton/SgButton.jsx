@@ -25,11 +25,11 @@ export default class SgButton extends React.Component {
         );
     }
 }
-Demo.defaultProps = {
+SgButton.defaultProps = {
     key: shortid.generate(),
     onClick: () => {},
 };
-Demo.propTypes = {
+SgButton.propTypes = {
     key: PropTypes.number,
     onClick: PropTypes.func,
 };
