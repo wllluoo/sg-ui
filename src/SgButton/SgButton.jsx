@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import shortid from 'shortid';
 import './index.less';
 
-export default class SgTabs extends React.Component {
+export default class SgButton extends React.Component {
     constructor(props) {
         super(props);
         this.state = {

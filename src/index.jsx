@@ -1,2 +1,2 @@
-export SgTabs from "./Tabs/SgTabs";
+export SgButton from "./SgButton/SgButton";
 

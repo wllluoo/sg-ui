@@ -3,12 +3,12 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.SgTabs = undefined;
+exports.SgButton = undefined;
 
-var _SgTabs2 = require("./Tabs/SgTabs");
+var _SgButton2 = require("./SgButton/SgButton");
 
-var _SgTabs3 = _interopRequireDefault(_SgTabs2);
+var _SgButton3 = _interopRequireDefault(_SgButton2);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-exports.SgTabs = _SgTabs3.default;
+exports.SgButton = _SgButton3.default;
